@@ -1,0 +1,8 @@
+## Interface: 90005
+## Title: Gank Sinatra KoS
+## Notes: Kill on Sight! A Gank Sinatra addon to show nearby targets.
+## Author: YourName
+## Version: 1.0
+## SavedVariables: GankSinatraKos_RedList
+
+GankSinatraKos.lua
