@@ -12,7 +12,7 @@ This repository contains the code for a World of Warcraft addon that allows play
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/InterlightStudio/GankSinatraKos/releases) page.
+1. Download the latest release from the [Releases](https://github.com/InterlightStudio/KOSAddon/releases) page.
 2. Extract the zip folder "GankSinatraKos" and place it your `World of Warcraft/_retail_/Interface/AddOns` directory.
 3. Restart World of Warcraft if it's currently running.
 
