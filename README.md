@@ -1,7 +1,5 @@
-# Gank Sinatra Kill-on-Sight (KoS) List Addon
-
-![Addon Screenshot](images/screenshot.png)
-
+![Addon Screenshot](images/header.png)
+# WoW WoTLK Addon
 This repository contains the code for a World of Warcraft addon that allows players to maintain a list of enemy players to target in PvP. The addon provides a user interface for adding and removing players from the list, and highlights the names of listed players in the combat log. It also includes features to yell the names of listed players in sight and to reload the user interface.
 
 ## Features
