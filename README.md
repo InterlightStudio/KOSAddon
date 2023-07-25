@@ -37,7 +37,7 @@ Use the `/kos` command followed by one of the following options:
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-![KoS Frame](images/koswar.png)
+![](images/koswar.png)
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
